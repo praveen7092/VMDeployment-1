@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "keyVaultName": {
+      "value": "devcloudopskv"
+    },
+    "objectId": {
+      "value": "2151ab8a-4afe-4310-96ee-3a4ce9bc68a2"
+    },
+    "secretsObject": {
+      "value": {
+        "secrets": [
+          {
+            "secretName": "domainpassword",
+            "secretValue": "To23072016***"
+          },
+          {
+            "secretName": "localadmin",
+            "secretValue": "To23072016***"
+          }
+        ]
+      }
+    }
+  }
+}
