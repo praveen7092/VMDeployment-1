@@ -20,6 +20,9 @@
     "domainToJoin": {
       "value": "devcloudops.local"
     },
+    "ouPath": {
+      "value": "OU=Servers; DC=devcloudops; DC=local"
+    },
     "domainUsername": {
       "value": "onder.deger@devcloudops.local"
     },
@@ -35,7 +38,7 @@
       "value": 3
     },
     "vmAdminUsername": {
-      "value": "adminrenre"
+      "value": "adminonder"
     },
     "vmAdminPassword": {
         "reference": {

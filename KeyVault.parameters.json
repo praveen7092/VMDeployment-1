@@ -6,18 +6,18 @@
       "value": "devcloudopskv"
     },
     "objectId": {
-      "value": "2151ab8a-4afe-4310-96ee-3a4ce9bc68a2"
+      "value": "90cc156e-8e73-40ac-909c-7bbc7dcd3022"
     },
     "secretsObject": {
       "value": {
         "secrets": [
           {
             "secretName": "domainpassword",
-            "secretValue": "To23072016***"
+            "secretValue": "Passw0rd1234!!!"
           },
           {
             "secretName": "localadmin",
-            "secretValue": "To23072016***"
+            "secretValue": "Passw0rd123!!"
           }
         ]
       }
