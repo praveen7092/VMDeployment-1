@@ -29,8 +29,8 @@
     "domainPassword": {
         "reference": {
             "keyVault": {
-              "id": "/subscriptions/fe688881-14d5-4b7a-985a-10dbcaaf3097/resourceGroups/Server-RG/providers/Microsoft.KeyVault/vaults/devcloudopskv"
-            },
+              "id": "/subscriptions/3c8deffd-e61e-4cf4-a054-0414465da130/resourceGroups/terraform-resource-group/providers/Microsoft.Network/networkInterfaces/IISVM01Nic"
+           },
             "secretName": "domainpassword"
           }
       },
